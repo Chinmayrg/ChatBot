@@ -11,4 +11,4 @@ or
 
 `pip install -r requirements.txt`
 
-Repository contains a Demo video file with name Demo.mp4, delete the file before running the code 
+Repository contains a Demo video file with name Demo.mp4, delete this file before running the code 
